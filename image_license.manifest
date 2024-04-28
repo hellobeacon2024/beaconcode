@@ -1,0 +1,9 @@
+RECIPE NAME: barebox
+VERSION: 2016.11.0-phy4
+LICENSE: GPL-2.0
+FILES: barebox-phyboard-mira-imx6-6-2016.11.0-phy4-r7.0.config barebox-phyboard-mira-imx6-6-2016.11.0-phy4-r7.0.bin
+
+RECIPE NAME: linux-mainline
+VERSION: 4.1.36-phy3
+LICENSE: GPLv2
+FILES: zImage-linux-mainline-4.1.36-phy3-r0.0-imx6dl-phytec-mira-rdk-nand.dtb modules--4.1.36-phy3-r0.0-phyboard-mira-imx6-6.tgz zImage-linux-mainline-4.1.36-phy3-r0.0-phyboard-mira-imx6-6.bin zImage-linux-mainline-4.1.36-phy3-r0.0-phyboard-mira-imx6-6.config
